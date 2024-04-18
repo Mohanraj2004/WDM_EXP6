@@ -18,8 +18,8 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 ### Program:
 
 ```
-Developed by : Rama E.K. Lekshmi
-Register number : 212222240082
+Developed by : Mohanraj . S
+Register number : 212221230065
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
